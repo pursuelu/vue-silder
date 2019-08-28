@@ -1,5 +1,8 @@
-# hiwitssso
-
+# vue-silder
+```
+vue版本高仿阴阳师轮播
+特别感谢@yangyunhe369的jQuery版本
+```
 ## Project setup
 ```
 npm install
